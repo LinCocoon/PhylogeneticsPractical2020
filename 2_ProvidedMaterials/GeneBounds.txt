@@ -1,0 +1,37 @@
+The following information is outputted after single gene alignments
+were concatenated together to give one big supermatrix. The gene bounds
+information (where genes start and end in the supermatrix) is needed
+to make partition files:
+
+Nuc:
+
+nad4_r = 1-1366
+nad4l_r = 1367-1678
+nad5_r = 1679-3451
+nad6 = 3452-4045
+atp6 = 4046-4732
+atp8 = 4733-4948
+cox1 = 4949-6499
+cox2 = 6500-7213
+cox3 = 7214-8002
+cob = 8003-9160
+nad1_r = 9161-10114
+nad2 = 10115-11191
+nad3 = 11192-11557
+
+
+AA:
+
+nad4_r = 1-456
+nad4l_r = 457-560
+nad5_r = 561-1151
+nad6 = 1152-1349
+atp6 = 1350-1578
+atp8 = 1579-1650
+cox1 = 1651-2167
+cox2 = 2168-2881
+cox3 = 2882-3144
+cob = 3145-3530
+nad1_r = 3531-3848
+nad2 = 3849-4207
+nad3 = 4208-4329
